@@ -1,6 +1,6 @@
 # Técnica Indiana de Memorização
 
-[Video] (https://www.youtube.com/watch?v=3sxhlHrUMog)
+[Video](https://www.youtube.com/watch?v=3sxhlHrUMog)
 
 - Estudar durante o dia.  
 - Escrever o assunto à mão.  
