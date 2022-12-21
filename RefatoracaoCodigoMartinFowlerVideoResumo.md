@@ -1,5 +1,6 @@
 # Refatoração de Código Martin Fowler  
-Video
+---
+[Video](https://youtu.be/H__7Kx8Z7hE)
 - Refatorar pequenas partes de código mudando, atualizando, e mantendo a coerência da síntaxe.  
 - Refatorar é mudar o código de forma que não mude o comportamento observáveldo programa. Fazer o programa ser mais legível.
 - Praticar muito a refatoração.
