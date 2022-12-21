@@ -1,2 +1,2 @@
 # AnotacoesDiversas
-Variedade de anotações de aprendizado
+Algumas anotações importantes de aprendizado
